@@ -1,2 +1,2 @@
 # behack
-Solving tasks
+Пожалуйста, используйте feature_selector для корректной работы программы
